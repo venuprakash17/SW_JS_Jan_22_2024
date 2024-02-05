@@ -1,3 +1,5 @@
+Video Link: https://www.youtube.com/watch?v=UjfBJOxEQeg
+
 //  This file is all about data types.
 
 // Null and Undefined
