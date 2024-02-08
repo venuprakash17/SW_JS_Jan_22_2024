@@ -119,3 +119,22 @@ console.log('10 <= 11', 10 <= 11) // Less than
 console.log(10 == 10 && 10 > 9);
 console.log(10 == 10 && 10 > 9);
 
+
+// ****** Logiocal Operators ***********
+
+// and (&&) or( || ) not(!)
+
+
+a = 10
+b = 21
+
+console.log(!(a == b))
+// console.log(a % 2 == 0 || b % 2 == 1)
+// A = a % 2 == 0  True - 1
+// B = b % 2 == 1  True - 1
+
+/*
+console.log(10 == 10 && 10 > 9);
+console.log(10 == 10 && 10 > 9);
+*/
+
